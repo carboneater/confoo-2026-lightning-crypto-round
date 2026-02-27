@@ -51,9 +51,7 @@ layout: center
 
 ---
 
-# ACME & LetsEncrypt
-
-ACME: Automated Certificate Management Environment
+# Paying for a certificate?
 
 LetsEncrypt:
 
@@ -61,3 +59,11 @@ LetsEncrypt:
     - 90d or 7d certificates
     - DV only
 
+---
+
+# Automation
+
+- **ACME: Automated Certificate Management Environment**
+- SCEP: Simple Certificate Enrollment Protocol
+- CMP: Certificate Management Protocol
+- EST: Enrollment over Secure Transport

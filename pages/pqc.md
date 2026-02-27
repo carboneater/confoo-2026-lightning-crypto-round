@@ -90,7 +90,7 @@ Source: Wookiepedia
 
 <v-click at="2">
 
-I'm not as courageous as [Rendle to confuse them](https://youtu.be/pJPBL8auiy0?si=sCwD2Dnmhv5IpekR&t=3001)!
+I'm not as courageous as [Rendle to confuse them](https://youtu.be/pJPBL8auiy0?si=sCwD2Dnmhv5IpekR&t=3000)!
 
 </v-click>
 

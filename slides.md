@@ -35,6 +35,11 @@ layout: center
 This talk contains no maths.
 
 ---
+image: ssllabs.png
+layout: image
+---
+
+---
 src: ./pages/history.md
 ---
 
